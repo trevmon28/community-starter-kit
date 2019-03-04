@@ -5,9 +5,11 @@ A GitHub App built with probot that celebrates new user activity within your rep
 ## What it does
 
 - the community starter kit is a tutorila for users to learn how to manage open source projects 
-- 
 
-FEATURES PLACEHOLDER
+
+- Create a new issue
+- Open a new pull request
+- Merge their first pull request
 
 ## Getting started
 
