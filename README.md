@@ -4,11 +4,14 @@ DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-- the bot guides workflow
+- the community starter kit is a tutorila for users to learn how to manage open source projects 
+- 
 
 FEATURES PLACEHOLDER
 
 ## Getting started
+
+- the community starter kit features a bot to guide tasks
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
