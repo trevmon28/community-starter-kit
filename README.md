@@ -4,6 +4,8 @@ DESCRIPTION PLACEHOLDER
 
 ## What it does
 
+- the bot guides workflow
+
 FEATURES PLACEHOLDER
 
 ## Getting started
